@@ -74,15 +74,17 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: My name is Gökay. I enjoy working with computers, travelling, generative art, photography and video.
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
     - name: stackoverflow
       url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://linkedin.com/in/gokaykucuk"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/gokaykucuk"
 
   analytics:
     google:
