@@ -74,7 +74,8 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: My name is Gökay. I enjoy working with computers, travelling, generative art, photography and video.
+    Content: |
+      My name is Gökay. I enjoy working with computers, travelling, generative art, photography and video.
 
   socialIcons:
     - name: twitter
