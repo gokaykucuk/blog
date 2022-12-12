@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: gokaykucuk.com
+  description: "My name is Gökay. I enjoy working with computers, travelling, generative art, photography and video."
+  keywords: [Blog, Portfolio, Photography, Generative Art, Programming]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -78,10 +78,6 @@ params:
       My name is Gökay. I enjoy working with computers, travelling, generative art, photography and video.
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: linkedin
       url: "https://linkedin.com/in/gokaykucuk"
     - name: github
